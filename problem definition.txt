@@ -1,0 +1,21 @@
+1)Rockwell Automation inc. wants to use amazon web service public cloud Like infrastructure as a service.
+2)because of the growth in all the sectors.
+3)So we need to create a microservice which has to be installed 
+on a centralised platform.
+4)Here in this case the centralised platform is git repository.
+5)so whenever the employee wants to access their human resource portal it can be accesed through their github account 
+
+
+
+
+Functional Requirement:
+1) User can Login .
+2) User can Check Salary.
+3) User can Check notifications.
+4) User can send mail to company's H.R for any query.
+5) Verify User.
+
+Non-Functional requirement:
+1) Scalability
+2) Security
+3)Maintenance
